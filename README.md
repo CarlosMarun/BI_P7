@@ -1,1 +1,1 @@
-BI_P7
+Colocar archivos dentro de servidor apache o cualquier otro.
